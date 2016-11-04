@@ -1,2 +1,2 @@
-# Hypercube_vs_ensemble
-Benchmark test between hypercube and ensemble algorithms
+# Random Forest
+Testing Random Forest on Mount Dore dataset
